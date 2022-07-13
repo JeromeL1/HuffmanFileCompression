@@ -15,3 +15,7 @@ This stores the bitseuqnece and the freq map.
 ## JMZip/JMUnzip
 
 zip and unzip drivers
+
+## Credit
+
+JMUCS, reworded/reduced from project desc for brevity.
